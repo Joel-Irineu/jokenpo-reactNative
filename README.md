@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="https://user-images.githubusercontent.com/33061906/77472983-855a7580-6df3-11ea-8ba1-e3e78ce22f71.jpg" width="50%">
+  <img alt="Frontend" src="https://user-images.githubusercontent.com/33061906/77704505-f9378200-6f9b-11ea-9c6c-045db97055f9.jpg" width="50%">
 </p>
 
 ## :rocket: Tecnologias
