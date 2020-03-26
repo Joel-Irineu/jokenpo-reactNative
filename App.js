@@ -3,6 +3,7 @@ import {
   View,
   Text,
   StyleSheet,
+  Image,
   TouchableOpacity,
 } from 'react-native';
 
@@ -11,19 +12,20 @@ class App extends React.Component{
     return(
       <View style={styles.container}>
         <Text style={styles.title}>Jokenpô</Text>
-        <View style={styles.game}>
           <TouchableOpacity onPress={() => pedra()} style={styles.btn}>
-            <Text style={styles.btnText}>Pedra ✊</Text>
+            <Image source={{uri: 'https://bit.ly/3bthtKf'}} style={styles.images}/>
+            <Text style={styles.btnText}>Pedra</Text>
           </TouchableOpacity>
 
           <TouchableOpacity onPress={() => papel()} style={styles.btn}>
-            <Text style={styles.btnText}>Papel ✋</Text>
+            <Image source={{uri: 'https://bit.ly/2vOi6Po'}} style={styles.images}/>
+            <Text style={styles.btnText}>Papel</Text>
           </TouchableOpacity>
 
           <TouchableOpacity onPress={() => tesoura()} style={styles.btn}>
-            <Text style={styles.btnText}>Tesoura ✌</Text>
+            <Image source={{uri: 'https://bit.ly/3bthtKf'}} style={styles.images}/>
+            <Text style={styles.btnText}>Tesoura</Text>
           </TouchableOpacity>
-        </View>
       </View>
     )
   }
@@ -33,29 +35,29 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
   },
-  game:{
-    marginTop: '40%',
-  },
   title:{
-    fontSize: 50,
+    fontSize: 40,
     color: '#262626',
     textAlign: 'center',
-    marginTop: 30,
+    margin: 30,
   },
   btn:{
-    height: 42,
+    height: 120,
     backgroundColor: '#262626',
     justifyContent: 'center',
     alignItems: 'center',
     borderRadius: 2,
     margin: 10,
-    },
-
-    btnText:{
+  },
+  btnText:{
         color: '#fff',
         fontWeight: 'bold',
         fontSize: 25,
-    }
+    },
+  images:{
+    width: 80,
+    height: 80,
+  }
 });
 
 //Declaração de variaveis
