@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#testar" target="_blank">Testar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="##iphone-você-também-pode-testar" target="_blank">Testar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Jokenpô é um jogo em que as pessoas jogam com as mãos, escolhendo entre pedra, papel e tesoura.
 E funciona assim: a tesoura corta o papel, mas quebra com a pedra; o papel embrulha a pedra, mas é cortado pela tesoura e a pedra quebra a tesoura e é embrulhada pelo papel.
 
-## :iphone: Você também pode testar!
+## :iphone: Você também pode testar!!!
 
 Você também pode testar e verificar meu codigo atravez do emulador do [Expo Snack](https://snack.expo.io/@joel.irineu/jokenp%C3%B4).
 
