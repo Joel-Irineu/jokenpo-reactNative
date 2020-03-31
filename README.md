@@ -34,7 +34,6 @@ E funciona assim: a tesoura corta o papel, mas quebra com a pedra; o papel embru
 
 ### :iphone: Você também pode testar!!!
 Você pode testar o app atraves do emulador do [snack.expo.io](https://snack.expo.io/@joel.irineu/jokenpô)
-<div data-snack-id="@joel.irineu/jokenpô" data-snack-platform="web" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212733;border:1px solid rgba(0,0,0,.08);border-radius:4px;height:505px;width:100%"></div><script async src="https://snack.expo.io/embed.js"></script>
 
 
 ## :memo: Licença
